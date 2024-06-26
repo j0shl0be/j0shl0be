@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @j0shl0be
 - I'm currently a mechatronics engineering student at the Univerity of Waterloo
 - I’m interested in addative manufacturing and game modding
-- I’m currently learning 
+- I’m currently learning the basics of game development on godot
 - Reach me at joshua.lobe@gmail.com or add me on discord @phatlobes
 
 <!---
